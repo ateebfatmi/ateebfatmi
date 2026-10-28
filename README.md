@@ -1,10 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Syed+Ateeb+Fatmi;Data+Science%2C+Machine+Learning+%26+AI+Enthusiast;Ex-IT+Intern+%40+Tata+Steel+%7C+CSE+%40+Jamia+Hamdard;Turning+Raw+Data+into+Predictive+Models+%26+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Syed+Ateeb+Fatmi;Founder+%40+SkaleKraft+%26+PrepZii+%7C+Tech+Entrepreneur;Data+Science%2C+Machine+Learning+%26+AI+Automation;Ex-IT+Intern+%40+Tata+Steel+%7C+CSE+%40+Jamia+Hamdard" alt="Typing SVG" />
 
   <p align="center">
+    <a href="https://skalekraft.in"><img src="https://img.shields.io/badge/Venture-SkaleKraft.in-D97706?style=for-the-badge&logo=sparkles&logoColor=white" alt="SkaleKraft" /></a>
+    <a href="https://prepzii.com"><img src="https://img.shields.io/badge/EdTech-PrepZii.com-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="PrepZii" /></a>
     <a href="https://linkedin.com/in/syedateebfatmi"><img src="https://img.shields.io/badge/LinkedIn-Syed%20Ateeb%20Fatmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ateebfatmi01@gmail.com"><img src="https://img.shields.io/badge/Email-ateebfatmi01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ateeb@skalekraft.in"><img src="https://img.shields.io/badge/Email-ateeb%40skalekraft.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -13,10 +15,20 @@
 
 ### ⚡ About Me
 
+- 🚀 **Founder & Entrepreneur** building **[SkaleKraft](https://skalekraft.in)** *(AI Automation & Digital Solutions Studio)* and **[PrepZii](https://prepzii.com)** *(Data-Driven JEE & NEET Preparation Platform)*.
 - 🎓 **B.Tech in Computer Science & Engineering** at **Jamia Hamdard, New Delhi** *(2023–2027)*
-- 💼 **Ex-IT Intern @ Tata Steel Ltd.** — Built an automated Vendor Attendance & Canteen Operations Monitoring platform with punch-in validation, manpower engagement tracking, and automated Excel reporting.
-- 🧠 **Focus Areas:** Data Analysis, Machine Learning, NLP, Computer Vision, Agentic AI Systems, and Business Intelligence Dashboards.
+- 💼 **Ex-IT Intern @ Tata Steel Ltd.** — Engineered an automated Vendor Attendance & Canteen Operations Monitoring platform with punch-in validation, manpower engagement analytics, and automated Excel reporting.
+- 🧠 **Core Expertise:** Data Science, Machine Learning, Agentic AI & Workflow Automation, NLP, Computer Vision, and Business Intelligence.
 - 🏆 **Achievements & Leadership:** All India Rank **41** in Mathematics Olympiad • Best Performer at Jamia Hamdard Induction • Technical Director @ **Unnat Bharat Abhiyan** • Head of Design & Creative @ **GeeksforGeeks JH** • Media Co-Head @ **GDG Jamia Hamdard**
+
+---
+
+### 🚀 Entrepreneurship & Ventures
+
+| Venture | What We Build | Links |
+| :--- | :--- | :--- |
+| 🏢 **[SkaleKraft](https://skalekraft.in)** <br/> *Founder • Digital & AI Studio* | **AI Agents, Workflow Automation & Digital Growth Studio** (*Understand › Plan › Build › Launch › Grow*). Helping businesses streamline operations, deploy intelligent AI automation, and scale through data-driven products—and organizing **[Skaleathon 2027](https://github.com/ateebfatmi/skaleathon)**, a national online hackathon. | 🌐 [skalekraft.in](https://skalekraft.in) <br/> ✉️ `ateeb@skalekraft.in` |
+| 🎯 **[PrepZii](https://prepzii.com)** <br/> *Founder • EdTech Analytics Platform* | **The Structured Way to Crack JEE & NEET.** A dedicated exam-prep and performance analytics workspace combining verified chapter-wise PYQs, mock tests, weak-chapter diagnosis, accuracy tracking, and multi-tenant institute management (**[PrepZii LMS](https://github.com/ateebfatmi/LMS-System)**). | 🌐 [prepzii.com](https://prepzii.com) |
 
 ---
 
@@ -58,7 +70,7 @@
 
 ---
 
-### 🚀 Featured Data Science & AI Projects
+### 🧠 Featured Data Science & AI Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
